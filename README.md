@@ -1,6 +1,7 @@
 Kentucky City Plot
 
-My project combines a map of Kentucky and plot points for cities in Kentucky. My primary goal is to get some level of understanding with Python, GeoPandas, and Jupyter Notebook. My future goals are to create a very light Google Map style program that charts distance between cities, but I wanted to make sure that I had the final project requirements complete before I delved further into the project. 
+My project combines a map of Kentucky and plot points for cities in Kentucky. My primary goal is to get some level of understanding with Python, GeoPandas, and Jupyter Notebook. My future goals are to create a quick way to tell basic distances between an origin city and subsequent cities in a state with the data uploaded via spreadsheets. This will be useful for a project manager in the trucking industry who quickly wants to figure how many drivers live around a project origin city.
+
 
 Features used in this project:
 
